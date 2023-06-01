@@ -1,0 +1,32 @@
+@media  screen and (max-width: 420px) {
+ 
+ .about-mf .about-img img {
+     margin-left: 0px!important; 
+  
+}
+.about-info {
+    padding-left: 50px!important;
+}
+.lead {
+    text-align: justify!important;
+}
+.counter-box {
+
+    padding-bottom: 20px;
+}
+
+.title-left:before {
+    left: 36%!important;
+}
+.title-left1:before {
+ 
+    left: 35%!important;
+}
+
+
+
+
+
+
+
+}
